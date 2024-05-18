@@ -16,4 +16,4 @@ numpy
 accelerate
 opencv-python
 sk-video==1.1.10
-
+ray[serve]
